@@ -1,0 +1,2 @@
+class TeamSoccer < ApplicationRecord
+end
